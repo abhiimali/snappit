@@ -9,7 +9,7 @@ class Category(models.Model):
         return self.name
 
 class Photo(models.Model):
-    category= models.ForeignKey('Category', on_delete=models.CASCADE)
+    category= models.ForeignKey(Category, on_delete=models.CASCADE)
     image = models.ImageField(null=False,blank=False)
     description = models.TextField()
     
