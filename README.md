@@ -33,5 +33,4 @@ http://localhost:8000/add/
 ```
 Select a category from the dropdown menu, and choose a photo file to upload. Click the "Upload" button to submit the form.
 
-**AWS Cloud Storage**
-All photos uploaded through this application are stored in AWS Cloud. This allows for scalable, reliable, and secure storage of your photos. To configure the AWS Cloud storage settings, update the AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY, AWS_STORAGE_BUCKET_NAME, and AWS_S3_REGION_NAME variables in the settings.py file.
+
