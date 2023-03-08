@@ -31,6 +31,6 @@ bash
 ```
 http://localhost:8000/add/
 ```
-Select a category from the dropdown menu, and choose a photo file to upload. Click the "Upload" button to submit the form.
+Select a category from the dropdown menu, and choose a photo file to upload. Click the "Submit" button to submit the form.
 
 
